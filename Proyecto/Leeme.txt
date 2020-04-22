@@ -1,0 +1,11 @@
+Franco Dellinocente
+David Sanchez oro
+Matias Lozada 
+BrunoClever Rofosco
+Gabriel Hernandez
+
+Gestor de juego de roll
+
+Haremos un gestor de juego de roll en el que podremos editar la hoja de atributos de los personajes, entre otras herramientas que incorporaremos, 
+como la posibilidad de realizar estas acciones en varios juegos de roll famosos o si es posible un creador de hojas de atributos
+esto lo tenemos pensado realizar en Phytom usando kivy
