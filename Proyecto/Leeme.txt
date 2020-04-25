@@ -6,6 +6,38 @@ Gabriel Hernandez
 
 Gestor de juego de roll
 
-Haremos un gestor de juego de roll en el que podremos editar la hoja de atributos de los personajes, entre otras herramientas que incorporaremos, 
-como la posibilidad de realizar estas acciones en varios juegos de roll famosos o si es posible un creador de hojas de atributos
-esto lo tenemos pensado realizar en Phytom usando kivy
+Gestor Para Juegos Rol De Mesa
+
+La propuesta es un gestor con variadas herramientas genéricas para, tanto el acompañamiento como el planeamiento de partidas de rol de mesa, independientes de a que juego sea (D&D, Pathfinder, Star Wars, etc…), teniendo en cuenta los principios generales que siguen la mayoría de estos juegos.
+Entre estas herramientas tendremos utilidades offline y utilidades para red LAN:
+
+
+Offline	
+
+Editor de plantillas para hojas de personaje:	
+	Siendo está posiblemente una de las herramientas más importantes del gestor, será un editor gráfico que permita  desarrollar plantillas para hojas de personaje interactivas. El formato de este será por módulos, donde los editores podrán generar secciones en las cuales estarán contenidos objetos, y estos podrán relacionarse entre sí a través de terminales de texto que aceptaran un simple psudocodigo preparado para soportar funciones matemáticas simples. Por ejemplo, el editor creara las variables “destreza”, “puntos de armadura” y “esquiva”, la variable esquiva se relacionara con las demás conteniendo un pseudocodigo: “destreza+puntos de armadura/2”. Al poder los modelos contener este pseudocodigo, al finalizarse la plantilla y está pasar a los jugadores, estos podrán rellenar sus hojas de personajes con precisión total y una automatización que hace a esta parte de los juegos de rol mucho más fácil y llevadera.
+  
+Editor para base de datos de entidades: 	
+	Con un funcionamiento similar en cuanto a la edición de la herramienta anterior. Esta permitirá crear una base de datos de entidades del juego a través de la generación de plantillas que serán luego rellenadas y serán una herramienta para el relator.	
+  
+Editor para base de datos de “Libro de Hechizos”:	
+	Los juegos de rol de mesa suelen incluir en sus reglas “hechizos” o habilidades especiales que también responden a plantillas estadísticas que interactúan con el juego, aquí se ofrecerá un gestor similar al de entidades para generar bases de datos de estas habilidades.
+  
+Dados:
+	Aquí tendremos un set que contando productores de números aleatorios basados en los diferentes tipos de dados usados en el rol de mesa se puedan gestionar plantillas de tiradas para tenerlas a click de distancia. Por ejemplo: el jugador elige en su plantilla 1 dado de 20 caras y 2 dados de 6 caras, la titula “Ataque”, ahora al clickear sobre el título de plantilla obtendrá el resultado numérico de una tirada de los tres dados que eligió. También dispondrá acceso directo para tiradas de dados simples.
+
+
+Lan
+
+Compartir Plantillas:	
+	Quien cree plantillas de hoja de personaje dispondrá la posibilidad de compartir con los demás jugadores las plantillas que haya creado, siendo estas con permiso de edición o solo de uso y lectura.	
+  
+Interacción en tiempo real:	
+	El jugador que se encuentre liderando la partida podrá desde su interfaz interactuar con las características de las hojas de personaje que estén utilizando los demás jugadores. Pudiendo observar y editar las características que deseé de los demás en tiempo real. Por ejemplo gestionar los puntos de la característica “vida” en las hojas de los jugadores.
+  
+Seguidor de iniciativa:
+	Muchos juegos de rol de mesa  utilizan el sistema de iniciativa para gestionar las rondas de juego, las plantillas que lo implementen, podrán acoplar a su interacción en tiempo real una herramienta que permitirá gestionar automáticamente al relator una “Lista de iniciativa” combinando datos almacenados en la base de datos de entidades y la interacción con las hojas de personaje de los jugadores.	
+
+	Además se incluirá una sección “help me” con documentación completa para el uso del programa y una sección de configuraciones para que la interfaz del mismo pueda adaptarse a los gustos y necesidades de cada usuario.
+  
+  El proyecto se desarollara en python el framework aun se encuentra a elegir por el grupo.
