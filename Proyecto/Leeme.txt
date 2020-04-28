@@ -1,7 +1,7 @@
 Franco Dellinocente
 David Sanchez oro
 Matias Lozada 
-Bruno Refosco
+Bruno Refosco 
 Gabriel Hernandez
 
 Gestor de juego de rol
