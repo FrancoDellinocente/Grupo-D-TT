@@ -1,10 +1,10 @@
 Franco Dellinocente
 David Sanchez oro
 Matias Lozada 
-BrunoClever Rofosco
+Bruno Refosco
 Gabriel Hernandez
 
-Gestor de juego de roll
+Gestor de juego de rol
 
 Gestor Para Juegos Rol De Mesa
 
