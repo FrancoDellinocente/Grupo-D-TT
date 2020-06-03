@@ -1,1 +1,61 @@
-<mxfile host="app.diagrams.net" modified="2020-06-03T22:20:24.748Z" agent="5.0 (Windows)" etag="-0qEJKD6qjsST6iKgBnA" version="13.1.14" type="github"><diagram id="WJYfx1BopP6gJgBmTmAw" name="Page-1">7VnRbtowFP2aSNtDJYJJSh8hsHVSN01rtT1OBpvgzomZcQr063fdOCHBYRC6FMr6UOoc+9rxuZdzEuOgIFp+lHg2/SwI5U67RZYOGjjttttCXfinkVWKeJ3LFAglI2bQGrhljzSLNGjCCJ2XBiohuGKzMjgWcUzHqoRhKcWiPGwieHnVGQ6pBdyOMbfRH4yoqUFd/2rdcU1ZODVLd9t+2hHhbLDZyXyKiVgUIDR0UCCFUGkrWgaUa/IyXtK4D1t68xuTNFb7BNy7P73ByusmI2/sDyb+4OZKXaB0lgfME7Nhc7NqlTGwmDJFb2d4rK8XkGUH9acq4nDlQhPPZynvE7akRAOchTFcczoBuG8WoFLR5dY7d3M+oJCoiKiSKxhiAjzDoCmhjNDFOh9tZLBpIRU5iE0NhPnMa5qgYZiqwVrHYu1TzMZMWNzBnlWZrrmS4hcNBBcSkFjEMLI/YZxvQBmLY+CIAt7XDDKoy57piBghepl+VX6kSGKiszFoHTUFXlMZ8N4ycOQM+BXK4XPNNWEP0Ax1c0iYEhL023TBSoXeioCLnvydUFB3kceM5Ob43bNci3vYMLgOhY+vVM5FjO/r3EYgohmNiS6odJJhrBjBhNa4rX9eiUZRT6oOL49dh5dWHd5pos9WBzodr5QAZCegU2WGTfHffQ1PEOjkHiGuLNq0ZlmSdb51jJC3MyX+SxZy9sbxd0cLsAzzNPWUZKNEaa9qXVNJwSBEDZO54TjCRM+m/3Lne4bxPSN068ZMLfI61mfv9YuIRpJuzr9//Hesi1mH84Pi756IrV79f7Xy01NF130NbuJ3To63tsVbQU7O1UIOzkNjaag6TqmhtOAgdMJiVstFAo7nsFivtkkkfBPhLEN2yvV6qB2caXXNsNoSbU8GoL2r3RR+w4/4JBk8JPalaDxPT9zUFG9vTWlMVOzTxhP0xM1Hie7xPdE+IwwkhSf0/ItVONM5V4s8OC2NZWWvc8OtFlnMW4OKXfWOsad2Von4lleW+ireehdgRUOYNkBOb4Dfvwn7gd8E5DYo7HC5/l3vqa/w6yga/gE=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-06-03T22:29:24.141Z" agent="5.0 (Windows)" etag="mQSnJxdeFC2VlmnIP_fE" version="13.1.14" type="github">
+  <diagram id="WJYfx1BopP6gJgBmTmAw" name="Page-1">
+    <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="j1_5Dy58ub5c6Df6DL9t-3" value="" style="whiteSpace=wrap;html=1;aspect=fixed;align=left;" parent="1" vertex="1">
+          <mxGeometry x="50" y="20" width="230" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="j1_5Dy58ub5c6Df6DL9t-4" value="Inicio" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="50" y="20" width="230" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="j1_5Dy58ub5c6Df6DL9t-5" value="Inicio" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="50" y="20" width="230" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="j1_5Dy58ub5c6Df6DL9t-6" value="&lt;div&gt;Editores&lt;/div&gt;&lt;div&gt;-Arquetipos&lt;br&gt;&lt;/div&gt;&lt;div&gt;-Hojas de Personajes&lt;/div&gt;&lt;div&gt;-Compendio de Entidades&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="50" y="70" width="230" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="j1_5Dy58ub5c6Df6DL9t-7" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="445" y="30" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="j1_5Dy58ub5c6Df6DL9t-8" value="" style="whiteSpace=wrap;html=1;aspect=fixed;align=left;" parent="1" vertex="1">
+          <mxGeometry x="350" y="20" width="230" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="j1_5Dy58ub5c6Df6DL9t-9" value="Hoja de Personaje" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="335" y="20" width="260" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="j1_5Dy58ub5c6Df6DL9t-10" value="&lt;div&gt;Carga de Atributos Heredados&lt;/div&gt;&lt;div&gt;-Llamada a Arquetipo&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Carga de Atributos Personales&lt;br&gt;&lt;/div&gt;&lt;div&gt;-Nombre de Atributo&lt;/div&gt;&lt;div&gt;-Valor del Atributo&lt;/div&gt;&lt;div&gt;-Tipo de Atributo&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="350" y="20" width="230" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="j1_5Dy58ub5c6Df6DL9t-11" value="" style="whiteSpace=wrap;html=1;aspect=fixed;align=left;" parent="1" vertex="1">
+          <mxGeometry x="640" y="20" width="230" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="j1_5Dy58ub5c6Df6DL9t-12" value="Arquetipo" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="640" y="20" width="230" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="j1_5Dy58ub5c6Df6DL9t-13" value="&lt;div&gt;Carga de Atributos Predefinidos&lt;/div&gt;&lt;div&gt;-Clase:&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;Nombre de Atributo&lt;/li&gt;&lt;li&gt;Valor Atributo&lt;/li&gt;&lt;li&gt;Tipo de Atributo&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div&gt;-Raza:&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;Nombre de Atributo&lt;/li&gt;&lt;li&gt;Valor de Atributo&lt;/li&gt;&lt;li&gt;Tipo de Atributo&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="640" y="50" width="230" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="j1_5Dy58ub5c6Df6DL9t-14" value="" style="whiteSpace=wrap;html=1;aspect=fixed;align=left;" parent="1" vertex="1">
+          <mxGeometry x="50" y="280" width="230" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="j1_5Dy58ub5c6Df6DL9t-15" value="Creador de Entidades" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="50" y="280" width="230" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="j1_5Dy58ub5c6Df6DL9t-16" value="&lt;div&gt;Carga de Atributos de Entidad:&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;Nombre del Atributo&lt;br&gt;&lt;/li&gt;&lt;li&gt;Valor del Atributo&lt;/li&gt;&lt;li&gt;Tipo de Atributo (Categoría)&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="50" y="310" width="230" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="VQYlvWcYDZwcA6km56Yy-1" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="640" y="280" width="240" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="VQYlvWcYDZwcA6km56Yy-2" value="BD(sqlite3)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="640" y="280" width="240" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="VQYlvWcYDZwcA6km56Yy-3" value="&lt;div&gt;Base de Datos&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;Arquetipo&lt;/li&gt;&lt;li&gt;Personajes&lt;/li&gt;&lt;li&gt;Entidades&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="640" y="310" width="240" height="210" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
